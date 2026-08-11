@@ -3,6 +3,8 @@ A JavaScript HTML, CSS, application where we fetch and show real time sun data f
 
 ---
 
+Use App: https://christopherandrewtopalian.github.io/CATopalian_JS_Sun_Science/CATopalian_JS_Sun_Science.html
+
 ![001](src/media/textures/screenshots/001.webp)
 
 Video: https://www.youtube.com/watch?v=08htNQR0jsE
