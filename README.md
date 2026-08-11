@@ -5,6 +5,8 @@ A JavaScript HTML, CSS, application where we fetch and show real time sun data f
 
 ![001](src/media/textures/screenshots/001.webp)
 
+Video: https://www.youtube.com/watch?v=08htNQR0jsE
+
 ---
 
 ### How to **Download** this App
